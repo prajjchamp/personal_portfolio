@@ -333,12 +333,6 @@ footer span a {
     width: 350px;
   }
 }
-
-@media (max-width: 991px) {
-  .max-width {
-    padding: 0 50px;
-  }
-}
 @media (max-width: 947px) {
   .menu-btn {
     display: block;
@@ -403,7 +397,6 @@ footer span a {
     margin-bottom: 35px;
   }
 }
-
 @media (max-width: 690px) {
   .max-width {
     padding: 0 23px;
@@ -421,34 +414,3 @@ footer span a {
     width: 100%;
   }
 }
-
-@media (max-width: 500px) {
-  .aqw .aqws .text-2 {
-    font-size: 50px;
-  }
-  .aqw .aqws .text-3 {
-    font-size: 27px;
-  }
-  .zsx .zsxh .right .text,
-  .skills .skills-content .left .text {
-    font-size: 19px;
-  }
-  .contact .right form .fields {
-    flex-direction: column;
-  }
-  .contact .right form .name,
-  .contact .right form .email {
-    margin: 0;
-  }
-  .right form .error-box {
-    width: 150px;
-  }
-  .scroll-up-btn {
-    right: 15px;
-    bottom: 15px;
-    height: 38px;
-    width: 35px;
-    font-size: 23px;
-    line-height: 38px;
-  }
-} 
