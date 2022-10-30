@@ -327,18 +327,7 @@ footer {
 footer span a {
   color: skyblue;
 }
-
-
-
-
-
-
-
-
-
-
-/* responsive media query start */
-/* @media (max-width: 1104px) {
+@media (max-width: 1104px) {
   .zsx .zsxh .left img {
     height: 350px;
     width: 350px;
@@ -462,4 +451,4 @@ footer span a {
     font-size: 23px;
     line-height: 38px;
   }
-} */
+} 
